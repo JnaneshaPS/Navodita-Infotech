@@ -1,0 +1,16 @@
+//This is Suricata downlaoding
+
+step1:sudo apt-get install software-properties-common
+
+step2:sudo add-apt-repository ppa:oisf/suricata-stable
+
+step3:sudo apt-get update
+
+step4:sudo apt-get install suricata
+
+//upgrading the system
+sudo apt-get update
+sudo apt-get upgrade suricata
+
+//removing the suricata
+sudo apt-get remove suricata
