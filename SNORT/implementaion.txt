@@ -1,0 +1,12 @@
+sudo install apt-get snort -y
+//check the vesron of the snort downloaded
+snort --version
+
+//configyre the file present 
+sudo vim /etc/snort/snort.conf
+
+//write the rules we want in intrusion detecton
+sudo vim /etc/snort/rules/local.rules
+
+//run the snort by
+sudo snort -T -i ens33 -c /etc/snort/snort.conf
