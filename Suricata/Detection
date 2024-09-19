@@ -1,1 +1,252 @@
-
+[6145 - Suricata-Main] 2024-08-11 11:19:46 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+[6145 - Suricata-Main] 2024-08-11 11:19:46 Info: cpu: CPUs/cores online: 2
+[6145 - Suricata-Main] 2024-08-11 11:19:46 Info: suricata: Setting engine mode to IDS mode by default
+[6145 - Suricata-Main] 2024-08-11 11:19:46 Info: exception-policy: master exception-policy set to: auto
+[6145 - Suricata-Main] 2024-08-11 11:19:46 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Warning: detect: 1 rule files specified, but no rules were loaded!
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Error: af-packet: eth0: failed to find interface type: No such device
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: runmodes: eth0: creating 2 threads
+[6148 - Suricata-Main] 2024-08-11 11:19:46 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6154 - W#01-eth0] 2024-08-11 11:19:47 Error: af-packet: eth0: failed to find interface: No such device
+[6154 - W#01-eth0] 2024-08-11 11:19:47 Error: af-packet: eth0: failed to init socket for interface
+[6148 - Suricata-Main] 2024-08-11 11:19:47 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[6163 - Suricata-Main] 2024-08-11 11:19:47 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+[6163 - Suricata-Main] 2024-08-11 11:19:47 Info: cpu: CPUs/cores online: 2
+[6163 - Suricata-Main] 2024-08-11 11:19:47 Info: suricata: Setting engine mode to IDS mode by default
+[6163 - Suricata-Main] 2024-08-11 11:19:47 Info: exception-policy: master exception-policy set to: auto
+[6163 - Suricata-Main] 2024-08-11 11:19:47 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Warning: detect: 1 rule files specified, but no rules were loaded!
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Error: af-packet: eth0: failed to find interface type: No such device
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: runmodes: eth0: creating 2 threads
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6170 - W#01-eth0] 2024-08-11 11:19:47 Error: af-packet: eth0: failed to find interface: No such device
+[6170 - W#01-eth0] 2024-08-11 11:19:47 Error: af-packet: eth0: failed to init socket for interface
+[6166 - Suricata-Main] 2024-08-11 11:19:47 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[6179 - Suricata-Main] 2024-08-11 11:19:48 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+[6179 - Suricata-Main] 2024-08-11 11:19:48 Info: cpu: CPUs/cores online: 2
+[6179 - Suricata-Main] 2024-08-11 11:19:48 Info: suricata: Setting engine mode to IDS mode by default
+[6179 - Suricata-Main] 2024-08-11 11:19:48 Info: exception-policy: master exception-policy set to: auto
+[6179 - Suricata-Main] 2024-08-11 11:19:48 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Warning: detect: 1 rule files specified, but no rules were loaded!
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6184 - Suricata-Main] 2024-08-11 11:19:48 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[6184 - Suricata-Main] 2024-08-11 11:19:49 Error: af-packet: eth0: failed to find interface type: No such device
+[6184 - Suricata-Main] 2024-08-11 11:19:49 Info: runmodes: eth0: creating 2 threads
+[6184 - Suricata-Main] 2024-08-11 11:19:49 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6188 - W#01-eth0] 2024-08-11 11:19:49 Error: af-packet: eth0: failed to find interface: No such device
+[6188 - W#01-eth0] 2024-08-11 11:19:49 Error: af-packet: eth0: failed to init socket for interface
+[6184 - Suricata-Main] 2024-08-11 11:19:49 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[6197 - Suricata-Main] 2024-08-11 11:19:49 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+[6197 - Suricata-Main] 2024-08-11 11:19:49 Info: cpu: CPUs/cores online: 2
+[6197 - Suricata-Main] 2024-08-11 11:19:49 Info: suricata: Setting engine mode to IDS mode by default
+[6197 - Suricata-Main] 2024-08-11 11:19:49 Info: exception-policy: master exception-policy set to: auto
+[6197 - Suricata-Main] 2024-08-11 11:19:50 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Warning: detect: 1 rule files specified, but no rules were loaded!
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Error: af-packet: eth0: failed to find interface type: No such device
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: runmodes: eth0: creating 2 threads
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6204 - W#01-eth0] 2024-08-11 11:19:50 Error: af-packet: eth0: failed to find interface: No such device
+[6204 - W#01-eth0] 2024-08-11 11:19:50 Error: af-packet: eth0: failed to init socket for interface
+[6200 - Suricata-Main] 2024-08-11 11:19:50 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[6213 - Suricata-Main] 2024-08-11 11:19:50 Notice: suricata: This is Suricata version 7.0.3 RELEASE running in SYSTEM mode
+[6213 - Suricata-Main] 2024-08-11 11:19:50 Info: cpu: CPUs/cores online: 2
+[6213 - Suricata-Main] 2024-08-11 11:19:50 Info: suricata: Setting engine mode to IDS mode by default
+[6213 - Suricata-Main] 2024-08-11 11:19:50 Info: exception-policy: master exception-policy set to: auto
+[6213 - Suricata-Main] 2024-08-11 11:19:51 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: logopenfile: fast output device (regular) initialized: fast.log
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: logopenfile: stats output device (regular) initialized: stats.log
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Warning: detect: 1 rule files specified, but no rules were loaded!
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Error: af-packet: eth0: failed to find interface type: No such device
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: runmodes: eth0: creating 2 threads
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Info: unix-manager: unix socket '/var/run/suricata-command.socket'
+[6220 - W#01-eth0] 2024-08-11 11:19:52 Error: af-packet: eth0: failed to find interface: No such device
+[6220 - W#01-eth0] 2024-08-11 11:19:52 Error: af-packet: eth0: failed to init socket for interface
+[6216 - Suricata-Main] 2024-08-11 11:19:52 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Info: cpu: CPUs/cores online: 2
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: device: Adding interface eth0 from config file
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: luajit: luajit states preallocated: 128
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Info: suricata: Setting engine mode to IDS mode by default
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Info: exception-policy: master exception-policy set to: auto
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: app-layer.error-policy: ignore (defined via 'exception-policy' master switch)
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: app-layer-htp: 'default' server has 'request-body-minimal-inspect-size' set to 31818 and 'request-body-inspect-window' set to 4273 after randomization.
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: app-layer-htp: 'default' server has 'response-body-minimal-inspect-size' set to 42566 and 'response-body-inspect-window' set to 15588 after randomization.
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: smb: read: max record size: 16777216, max queued chunks 64, max queued size 67108864
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: smb: write: max record size: 16777216, max queued chunks 64, max queued size 67108864
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: app-layer-enip: Protocol detection and parser disabled for enip protocol.
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Config: app-layer-dnp3: Protocol detection and parser disabled for DNP3.
+[10390 - Suricata-Main] 2024-08-11 15:06:37 Warning: ioctl: Failure when trying to get MTU via ioctl for 'eth0': No such device (19)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: host: allocated 262144 bytes of memory for the host hash... 4096 buckets of size 64
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: host: preallocated 1000 hosts of size 136
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: host: host memory usage: 398144 bytes, maximum: 33554432
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: coredump-config: Core dump size set to unlimited.
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: defrag.memcap-policy: ignore (defined via 'exception-policy' master switch)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: defrag-hash: allocated 3670016 bytes of memory for the defrag hash... 65536 buckets of size 56
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: defrag-hash: preallocated 65535 defrag trackers of size 160
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: defrag-hash: defrag memory usage: 14155616 bytes, maximum: 33554432
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: flow.memcap-policy: ignore (defined via 'exception-policy' master switch)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: flow: flow size 296, memcap allows for 453438 flows. Per hash row in perfect conditions 6
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "prealloc-sessions": 2048 (per thread)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "memcap": 67108864
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "midstream" session pickups: disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "async-oneside": disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "checksum-validation": enabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: stream.memcap-policy: ignore (defined via 'exception-policy' master switch)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: stream.reassembly.memcap-policy: ignore (defined via 'exception-policy' master switch)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: exception-policy: stream.midstream-policy: ignore (defined via 'exception-policy' master switch)
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream."inline": disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "bypass": disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "max-syn-queued": 10
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream "max-synack-queued": 5
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.reassembly "memcap": 268435456
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.reassembly "depth": 1048576
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.reassembly "toserver-chunk-size": 2596
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.reassembly "toclient-chunk-size": 2530
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.reassembly.raw: enabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp: stream.liberal-timestamps: disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp-reassemble: stream.reassembly "segment-prealloc": 2048
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: stream-tcp-reassemble: stream.reassembly "max-regions": 8
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: conf: Running in live mode, activating unix socket
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: logopenfile: fast output device (regular) initialized: fast.log
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'alert'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'frame'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'anomaly'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'http'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'dns'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'tls'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'files'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'smtp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'ftp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'rdp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'nfs'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'smb'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'tftp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'ike'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'dcerpc'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'krb5'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'bittorrent-dht'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'snmp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'rfb'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'sip'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'quic'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'dhcp'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'ssh'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'mqtt'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'http2'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'pgsql'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'stats'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: runmodes: enabling 'eve-log' module 'flow'
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: logopenfile: stats output device (regular) initialized: stats.log
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: landlock: Landlock is not enabled in configuration
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: suricata: Delayed detect disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: pattern matchers: MPM: hs, SPM: hs
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: grouping: tcp-whitelist (default) 53, 80, 139, 443, 445, 1433, 3306, 3389, 6666, 6667, 8080
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: grouping: udp-whitelist (default) 53, 135, 5060
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: prefilter engines: MPM
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: reputation: IP reputation disabled
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Warning: detect: No rule files match the pattern /var/lib/suricata/rules/suricata.rules
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: No rules loaded from suricata.rules.
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Warning: detect: 1 rule files specified, but no rules were loaded!
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: detect: building signature grouping structure, stage 1: preprocessing rules... complete
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: TCP toserver: 0 port groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: TCP toclient: 0 port groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: UDP toserver: 0 port groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: UDP toclient: 0 port groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: OTHER toserver: 0 proto groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: OTHER toclient: 0 proto groups, 0 unique SGH's, 0 copies
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Unique rule groups: 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toserver TCP packet": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toclient TCP packet": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toserver TCP stream": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toclient TCP stream": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toserver UDP packet": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "toclient UDP packet": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: detect: Builtin MPM "other IP packet": 0
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: af-packet: eth0: using flow cluster mode for AF_PACKET
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: af-packet: eth0: using defrag kernel functionality for AF_PACKET
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Perf: af-packet: eth0: cluster_flow: 2 cores, using 2 threads
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Error: af-packet: eth0: failed to find interface type: No such device
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: runmodes: eth0: creating 2 threads
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: flow-manager: using 1 flow manager threads
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Config: flow-manager: using 1 flow recycler threads
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Info: unix-manager: unix socket '/var/run/suricata/suricata-command.socket'
+[10399 - W#01-eth0] 2024-08-11 15:06:37 Error: af-packet: eth0: failed to find interface: No such device
+[10399 - W#01-eth0] 2024-08-11 15:06:37 Error: af-packet: eth0: failed to init socket for interface
+[10396 - Suricata-Main] 2024-08-11 15:06:37 Error: threads: thread "W#01-eth0" failed to start: flags 0423
+[12159 - Suricata-Main] 2024-08-11 16:48:57 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
+[12159 - Suricata-Main] 2024-08-11 16:48:57 Info: cpu: CPUs/cores online: 2
+[12159 - Suricata-Main] 2024-08-11 16:48:57 Info: suricata: Running suricata under test mode
+[12159 - Suricata-Main] 2024-08-11 16:48:57 Info: suricata: Setting engine mode to IDS mode by default
+[12159 - Suricata-Main] 2024-08-11 16:48:57 Info: exception-policy: master exception-policy set to: auto
+[12159 - Suricata-Main] 2024-08-11 16:48:58 Info: logopenfile: fast output device (regular) initialized: fast.log
+[12159 - Suricata-Main] 2024-08-11 16:48:58 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[12159 - Suricata-Main] 2024-08-11 16:48:58 Info: logopenfile: stats output device (regular) initialized: stats.log
+[12159 - Suricata-Main] 2024-08-11 16:49:37 Info: detect: 1 rule files processed. 39531 rules successfully loaded, 0 rules failed, 0
+[12159 - Suricata-Main] 2024-08-11 16:49:37 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[12159 - Suricata-Main] 2024-08-11 16:49:37 Info: detect: 39534 signatures processed. 1171 are IP-only rules, 4109 are inspecting packet payload, 34037 inspect application layer, 108 are decoder event only
+[12159 - Suricata-Main] 2024-08-11 16:50:18 Notice: suricata: Configuration provided was successfully loaded. Exiting.
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: cpu: CPUs/cores online: 2
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: suricata: Running suricata under test mode
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: suricata: Setting engine mode to IDS mode by default
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: exception-policy: master exception-policy set to: auto
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: logopenfile: fast output device (regular) initialized: fast.log
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[12438 - Suricata-Main] 2024-08-11 17:11:46 Info: logopenfile: stats output device (regular) initialized: stats.log
+[12438 - Suricata-Main] 2024-08-11 17:13:27 Error: detect: failed to parse address "(msg:"ICMP"
+[12438 - Suricata-Main] 2024-08-11 17:13:27 Error: detect: error parsing signature "alert icmp any any -> (msg:"ICMP Ping"; sid:1;rev:1;)" from file /etc/suricata/rules/local.rules at line 1
+[12438 - Suricata-Main] 2024-08-11 17:13:27 Info: detect: 2 rule files processed. 39531 rules successfully loaded, 1 rules failed, 0
+[12438 - Suricata-Main] 2024-08-11 17:13:27 Error: suricata: Loading signatures failed.
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: cpu: CPUs/cores online: 2
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: suricata: Running suricata under test mode
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: suricata: Setting engine mode to IDS mode by default
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: exception-policy: master exception-policy set to: auto
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: logopenfile: fast output device (regular) initialized: fast.log
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[12476 - Suricata-Main] 2024-08-11 17:13:30 Info: logopenfile: stats output device (regular) initialized: stats.log
+[12476 - Suricata-Main] 2024-08-11 19:33:43 Error: detect: failed to parse address "(msg:"ICMP"
+[12476 - Suricata-Main] 2024-08-11 19:33:43 Error: detect: error parsing signature "alert icmp any any -> (msg:"ICMP Ping"; sid:1;rev:1;)" from file /etc/suricata/rules/local.rules at line 1
+[12476 - Suricata-Main] 2024-08-11 19:33:43 Info: detect: 2 rule files processed. 39531 rules successfully loaded, 1 rules failed, 0
+[12476 - Suricata-Main] 2024-08-11 19:33:43 Error: suricata: Loading signatures failed.
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: cpu: CPUs/cores online: 2
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: suricata: Running suricata under test mode
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: suricata: Setting engine mode to IDS mode by default
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: exception-policy: master exception-policy set to: auto
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: logopenfile: fast output device (regular) initialized: fast.log
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[12695 - Suricata-Main] 2024-08-11 19:43:15 Info: logopenfile: stats output device (regular) initialized: stats.log
+[12695 - Suricata-Main] 2024-08-11 19:44:11 Error: detect: failed to parse address "(msg:"ICMP"
+[12695 - Suricata-Main] 2024-08-11 19:44:11 Error: detect: error parsing signature "alert icmp any any -> (msg:"ICMP Ping"; sid:1;rev:1;)" from file /etc/suricata/rules/local.rules at line 1
+[12695 - Suricata-Main] 2024-08-11 19:44:11 Info: detect: 2 rule files processed. 39531 rules successfully loaded, 1 rules failed, 0
+[12695 - Suricata-Main] 2024-08-11 19:44:11 Error: suricata: Loading signatures failed.
